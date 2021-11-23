@@ -1,1 +1,2 @@
 # JS-basic
+branches => master
